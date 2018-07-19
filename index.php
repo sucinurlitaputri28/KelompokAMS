@@ -312,4 +312,6 @@ switch (ENVIRONMENT)
  *
  * And away we go...
  */
+
+/*apa ini*/
 require_once BASEPATH.'core/CodeIgniter.php';
